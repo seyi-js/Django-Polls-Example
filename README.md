@@ -1,0 +1,1 @@
+# Polling app developed with Django
